@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Trang Chủ</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+    <link rel="shortcut icon" type="text/css" href="image/logo_vimart.png">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+  <link type="text/css" rel="stylesheet" href="fontawesome-free-5.13.0-web/fontawesome-free-5.13.0-web/css/fontawesome.min.css" />
+  <style type="text/css">
+    #header{
+      margin: 0px;
+      padding: 0px;
+    }
+  </style>
+</head>
+<body>
+<div class="container" style="background-color: " id="header">
+  <div class="col-sm-4">
+    <img src="image/logo_vimat2.png" alt="" style="width: 100px;height: 100px;">
+  </div>
+   <div class="col-sm-7" align="center" style="font-style: cursive;text-decoration-color: red" >
+    <p class="text-left text-danger" style="font-size: 40px">
+    Bạn cứ ngồi yên Vinmart sẽ tới
+  </p>
+   </div>
+   <div class="col-sm-1">
+    <form class="form-inline mr-auto">
+  <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+  <button class="btn btn-outline-success btn-rounded btn-sm my-0" type="submit">Search</button>
+</form>
+   </div>
+</div>
+<nav class="navbar navbar-inverse" style="background-color: green">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="trangchu.html">Trang chủ</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class=""><a href="https://vinmart.com/">Mua HÀNG</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Thông tin <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.vinmartplus.vn/st/1366-gioi-thieu-vinmart-st?st=1">Gioi thiệu</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="dangky.html"><span class="glyphicon glyphicon-user"></span> Đăng ký</a></li>
+      <li><a href="dangnhap.html"><span class="glyphicon glyphicon-log-in"></span> Đăng nhập</a></li>
+    </ul>
+  </div>
+</nav>
+  
+<div class="container text-center" >
+  <h2>Hình ảnh nối bât hệ thống siêu thị Vinmart</h2>  
+  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width:70%;margin:0px auto;" >
+    <!-- Indicators -->
+    <ol class="carousel-indicators" >
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="image/01.JPG" alt="" style="width:100%;height: 500px">
+      </div>
+
+      <div class="item">
+        <img src="image/02.JPG" alt="" style="width:100%;height: 500px">
+      </div>
+    
+      <div class="item">
+        <img src="image/03.JPG" alt="" style="width:100%;height: 500px">
+      </div>
+      <div class="item">
+        <img src="image/04.JPG" alt="" style="width:100%;height: 500px">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+<hr>
+</div>
+<div class="container text-left" style="margin-top: 50px;">
+  <div class="row">
+    <div class="col-sm-6" style="font-family: cursive;font-weight: bold;">
+        <p>
+          Rau xanh bao la, củ quả thả ga, chỉ cần đến VinMart thôi cả nhà ơi. 
+
+👍Hãy đến Vinmart hoặc gọi điện đặt hàng ngay nào!
+
+Xem ngay các sản phẩm rau - củ - quả VinEco trợ giá từ 30 - 50% tại đây:
+
+🥕 Tại khu vực Miền Bắc: bit.ly/VinEcoMB
+
+🥕 Tại khu vực Miền Nam: bit.ly/VinEcoMN
+
+-----
+
+ĐI CHỢ AN TOÀN CÙNG VINMART
+
+▪ Đặt hàng trực tiếp qua điện thoại tại hệ thống siêu thị VinMart trên toàn quốc (danh sách số điện thoại siêu thị: bit.ly/2wozIlu)
+
+▪Đăt hàng trên app VinID tại https://id.vin/mWw hoặc website VinMart.com
+
+▪ Miễn phí giao hàng (Áp dụng cho hóa đơn từ 200.000đ tại các tỉnh & 500.000đ tại Hà Nội, Hồ Chí Minh)
+
+▪ Giao hàng trong vòng 4h đồng hồ đối với các đơn hàng đặt trước 20:00 hàng ngày
+
+#Vinmart  #Vinmartplus
+Rau xanh bao la, củ quả thả ga, chỉ cần đến VinMart thôi cả nhà ơi. 
+
+👍Hãy đến Vinmart hoặc gọi điện đặt hàng ngay nào!
+
+Xem ngay các sản phẩm rau - củ - quả VinEco trợ giá từ 30 - 50% tại đây:
+
+🥕 Tại khu vực Miền Bắc: bit.ly/VinEcoMB
+
+🥕 Tại khu vực Miền Nam: bit.ly/VinEcoMN
+
+-----
+
+ĐI CHỢ AN TOÀN CÙNG VINMART
+
+▪ Đặt hàng trực tiếp qua điện thoại tại hệ thống siêu thị VinMart trên toàn quốc (danh sách số điện thoại siêu thị: bit.ly/2wozIlu)
+
+▪Đăt hàng trên app VinID tại https://id.vin/mWw hoặc website VinMart.com
+
+▪ Miễn phí giao hàng (Áp dụng cho hóa đơn từ 200.000đ tại các tỉnh & 500.000đ tại Hà Nội, Hồ Chí Minh)
+
+▪ Giao hàng trong vòng 4h đồng hồ đối với các đơn hàng đặt trước 20:00 hàng ngày
+
+#Vinmart  #Vinmartplus
+
+        </p>
+    </div>
+     <div class="col-sm-6">
+      <iframe width="700px" height="482" src="https://www.youtube.com/embed/qZH1cPaR--c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+    </div>
+  </div>
+</div>
+<hr>
+<div class="container text-right">
+     <div class="row">
+      <div class="col-md-6">
+             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1boNxPm_80m7e0GIyWCIPrivT48xNvR4D" width="540" height="400"></iframe>
+      </div>
+      <div class="col-md-6" style="font-family: cursive;font-weight: bold;font-size: 20px;">
+           Trụ sở chính:<br>
+Tầng 5, Mplaza SaiGon, 39 Lê Duẩn, Phường Bến Nghé, Quận 1, Thành Phố Hồ Chí Minh, Việt Nam.<br>
+          Địa chỉ giao dịch Tp.HCM:<br>
+     Tầng 5, Mplaza SaiGon, 39 Lê Duẩn, Phường Bến Nghé, Quận 1, Thành Phố Hồ Chí Minh.<br>
+    Địa chỉ giao dịch Hà Nội:<br>
+      Tower 1, Times City, 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội.
+      </div>
+     </div>
+</div>
+
+<div class="container-fluid padding" style="font-family: cursive;">
+    <div class="row welcome text-center">
+      <div class="col-md-12">
+        <h1 class="display-4">
+
+          Thông tin chủ tịch
+        </h1>
+      </div>
+    </div>
+</div>
+<hr>
+<div class="container-fluid padding" style="font-family: cursive;">
+  <div class="row padding">
+    <div class="col-md-4">
+           <div class="card" style="width:300px">
+               <img class="card-img-top" src="image/kim_sao.jpg" alt="Card image" style="width:100%">
+          <div class="card-body">
+               <h4 class="card-title">KIM SAO</h4>
+               <p class="card-text">Giang viên trường đại học giao <br>thông vận tải ,dạy môn cơ sở duêc liệu , <br>lập trình web, thiết kế cơ<br> sở dữ liệu</p>
+               <a href="#" class="btn btn-primary">Chi tiết</a>
+         </div>
+           </div>
+    </div>
+    <div class="col-md-4">
+           <div class="card" style="width:300px">
+               <img class="card-img-top" src="image/trong_dac.jpg" alt="Card image" style="width:100%">
+          <div class="card-body">
+               <h4 class="card-title">TRỌNG ĐẮC</h4>
+               <p class="card-text">Ngày sinh: 18/07/1999<br>
+              Quê quán :Nam Định</p>
+               <a href="#" class="btn btn-primary">Chi tiết</a>
+         </div>
+           </div>
+    </div>
+
+    <div class="col-md-4">
+           <div class="card" style="width:300px">
+               <img class="card-img-top" src="image/cao_phong.jpg" alt="Card image" style="width:100%">
+          <div class="card-body">
+               <h4 class="card-title">CAO PHONG</h4>
+               <p class="card-text">trân facao phong tràn cao phaongf<br>trân facao phong tràn cao phaongftrân<br> facao phong tràn cao phaongftrân<br> facao phong tràn cao phaongf</p>
+               <a href="#" class="btn btn-primary">Chi tiết</a>
+         </div>
+           </div>
+    </div>
+  </div>
+</div>
+
+<hr class="my-4">
+<div class="container-fluid padding" style="font-family: cursive;font-weight: bold;">
+  <div class="row text-center padding">
+    <div class="col-12">
+      <h2>Hãy liên hệ với chúng tôi</h2>
+    </div>
+  </div>
+
+  <div class="row text-center padding">
+    <div class="col-12 ">
+      <a href="" style="font-size: 40px;padding: 20px;"><i class="fab fa-twitter" style="color: #00aced;"></i></a>
+      <a href="" style="font-size: 40px;padding: 20px;"><i class="fab fa-facebook" style="color: #3b5998;"></i></a>
+      <a href="" style="font-size: 40px;padding: 20px;"><i class="fab fa-google-plus-g" style="color: #dd4b39;"></i></a>
+      <a href="" style="font-size: 40px;padding: 20px;"><i class="fab fa-instagram" style="color: #517fa4;"></i></a>
+      <a href=""style="font-size: 40px;padding: 20px;"><i class="fab fa-youtube" style="color: #bb0000;"></i></a>
+    </div>
+  </div>
+
+  <div class="row text-center padding">
+    <div class="row">
+                <div class="col-lg-12">
+                    <ul class="nav nav-pills ">
+                        <li><a href="/">sđt : 0945240510</a></li>
+                        <li><a href="#">Facebook: Trọng Đắc</a></li>
+                        <li><a href="#">Email : it1k58utc@gmail.com</a></li>
+                        <li>
+                            <a href="">Số lần đăng nhập vào web : 
+                                <?php 
+
+                                session_start();
+                                if(isset($_SESSION['x'])){
+	                                $_SESSION['x'] +=1;
+                                }
+                                else{
+	                                $_SESSION['x'] =1;
+                                }
+                                echo $_SESSION['x'];
+                                print_r($_SESSION['x']);
+                                ?>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+  </div>
+
+</div>
+</body>
+</html>
+

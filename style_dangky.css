@@ -1,0 +1,30 @@
+html,body{
+background-color: #b3ccff;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'VTFI2', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 700px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
